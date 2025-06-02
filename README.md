@@ -14,7 +14,7 @@ Using Python and data visualization libraries like `pandas`, `seaborn`, and `mat
 ## Data
 
 The dataset was retrieved from:  
-📎 [https://www.murach.com/python_analysis/shots.json](https://www.murach.com/python_analysis/shots.json)
+[https://www.murach.com/python_analysis/shots.json](https://www.murach.com/python_analysis/shots.json)
 
 This JSON file contains detailed shot logs including shot type, location (x, y), game ID, date, and result.
 
