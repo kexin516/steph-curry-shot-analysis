@@ -34,3 +34,7 @@ Key visualizations include:
 - matplotlib
 - JSON handling
 - Jupyter Notebook
+
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jpPuNSS7cDNnFZcdmE2gtxbRtD8iI0Ox?usp=sharing)
